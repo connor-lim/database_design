@@ -1,0 +1,1 @@
+In order to convert from v1 to v2, I would make a table within the user table to store multiple playlist id's. With this, I can manage the data from each playlist from an ID.
